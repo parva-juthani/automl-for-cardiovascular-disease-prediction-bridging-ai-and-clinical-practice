@@ -41,3 +41,8 @@ The analysis follows these key steps:
 
 4.  **Run the Jupyter Notebook:**
     Launch Jupyter Notebook and open `CVD_prediction_.ipynb` to execute the cells.
+
+
+    ## AI Acknowledgement
+
+AI was used to build the first version of the code, including setting up AutoML models and running training and testing steps. We then checked, tested, and changed the code ourselves to make sure it worked correctly for our dataset. AI also helped us fix errors (like Python version issues with PyCaret) and clean up repeated or unnecessary code. 
