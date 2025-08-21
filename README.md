@@ -45,4 +45,4 @@ The analysis follows these key steps:
 
     ## AI Acknowledgement
 
-AI was used to build the first version of the code, including setting up AutoML models and running training and testing steps. We then checked, tested, and changed the code ourselves to make sure it worked correctly for our dataset. AI also helped us fix errors (like Python version issues with PyCaret) and clean up repeated or unnecessary code. 
+AI was used to build the first version of the code, including setting up AutoML models and running training and testing steps. We then checked, tested, and changed the code ourselves to make sure it worked correctly for our dataset. AI also helped us fix errors (like Python version issues with PyCaret) and clean up repeated or unnecessary code. AI was used to verify output from SHAP. AI suggested me to use top 6 features, based on that output we checked we dedcided to use top 10 features.
